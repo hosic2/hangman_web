@@ -1,3 +1,3 @@
 # hangman_web test
 
-Test Action
+Test-Action
